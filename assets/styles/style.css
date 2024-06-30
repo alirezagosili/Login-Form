@@ -16,7 +16,7 @@ a{
 }
 body{
     font-family: var(--font-primary);
-    background-image: url("/assets/images/bg1.png");
+    background-image: url(../images/bg.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
